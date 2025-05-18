@@ -1,9 +1,13 @@
-a[href$="000"] > div.cave-grid {
+a[href$="266425"] > div.cave-grid,
+a[href$="269620"] > div.cave-grid,
+a[href$="251877"] > div.cave-grid {
   background-image: url('https://i.imgur.com/guxsdHd.jpeg');
   background-size: cover;
   background-position: center;
 }
 
-a[href$="000"] > div.cave-grid > img {
+a[href$="266425"] > div.cave-grid > img,
+a[href$="269620"] > div.cave-grid > img,
+a[href$="251877"] > div.cave-grid > img {
   opacity: 0;
 }
